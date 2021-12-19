@@ -1,7 +1,7 @@
 import json
 
-ff = open('dataset.txt', 'a+', encoding='utf-8')
-with open('rahmatism-xaj.txt', 'r', encoding='utf-8') as f:
+ff = open('yourrealdata.txt', 'a+', encoding='utf-8')
+with open('telegramdatabase.txt', 'r', encoding='utf-8') as f:
     for x, i in enumerate(f, start=1):
         if x % 2 == 0:
             ff.write(i)
