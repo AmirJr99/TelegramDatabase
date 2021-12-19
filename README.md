@@ -1,5 +1,8 @@
 # TelegramDatabase
-
+<p algin='center'>
+<img src='https://1.bp.blogspot.com/-a5kiFBeLLVA/XoRBOzHUHcI/AAAAAAAAINo/IOvFwQG8uL8cwqjerHwNybCj-kCVSlz1gCLcBGAsYHQ/s1600/42%2BMillion%2BIranian%2Buser%2BIDs%2Band%2BPhone%2BNumbers%2BSold%2Bby%2BHacker%2BGroup%2BHunting%2BSystem.png' width=300px;>
+  </p>
+  
 # About
 The records of 42 million users from a third-party version of the popular Telegram messaging app have just been Iranian accounts leaked.
 If these figures don't include duplicate accounts, this means around half of Iran's citizens were affected by the hack, according to population estimates from 2017.
